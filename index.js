@@ -8,10 +8,10 @@ var remoteUsers = {};
 // Agora client options
 var options = {
   appid: '22461fe5b88f4684baa679eb2a8aadd4',
-  channel: 'demo0225',
+  channel: 'demo0312',
   uid: null,
   token:
-    '00622461fe5b88f4684baa679eb2a8aadd4IABPjHtjNQjnyC31Vrase43lrMPiEbffGvNDVUe0PfxZz3+3AisAAAAAEAAjyt/jtW44YAEAAQCubjhg'
+    '00622461fe5b88f4684baa679eb2a8aadd4IABqSX13fh5S2JKnDJmO4+p1RWN0hut+SiUBReeojRp1dCgbiZ8AAAAAEADqgOQ9jxxLYAEAAQCPHEtg'
 };
 
 // the demo can auto join channel with params in url
